@@ -1,6 +1,8 @@
 # uichatkitdemo
 Thiết kế giao diện màn hình chat sử dụng RelativeLayout
 #### Khởi tạo layout
+<br />
+Mã nguồn uichatkitdemo được sử dụng để thực hành tại [CodeGym](https://codegym.vn)
 ```xml
 <?xml version="1.0" encoding="utf-8"?>
 <RelativeLayout
@@ -101,3 +103,6 @@ Thiết kế giao diện màn hình chat sử dụng RelativeLayout
         />
 </RelativeLayout>
 ```
+
+<br />
+Mã nguồn  được sử dụng để thực hành tại [CodeGym](https://codegym.vn)
